@@ -1,0 +1,15 @@
+{
+	"name"       : "anteprocess/my-instagram-widget",
+	"description": "Show of your Instagram Pictures with My Instagram widget",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Michael Hirooka",
+			"homepage": "http://anteprocess.versus.jp/"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
